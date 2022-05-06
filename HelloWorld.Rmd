@@ -1,8 +1,6 @@
 ---
 title: "HelloWorld"
 author: "2K"
-date: '2022-05-05'
-output: html_document
+date: '2022-05-06'
+output: pdf_document
 ---
-
-## This is a markdown file
