@@ -1,6 +1,0 @@
----
-title: "HelloWorld"
-author: "2K"
-date: '2022-05-06'
-output: pdf_document
----
